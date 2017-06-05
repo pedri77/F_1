@@ -1,4 +1,18 @@
-Copyright (c) 2017 pedri77
+Esta plantilla está realizada con el FRAMEWORK FOUNDATION6
+
+![FOUNDATION](https://i2.wp.com/www.arturogoga.com/wp-content/uploads/2015/11/Screenshot-2015-11-20-14.22.59.jpg?resize=1105%2C623&ssl=1)
+
+[FOUNDATION](http://foundation.zurb.com)
+
+Foundation for Sites 6 ha sido diseñado para que servir de prototipo en producción con el fin de que sea más eficiente que nunca! Incluye una amplia gama de componentes modulares y flexibles de fácil diseño. Estos versátiles y ligeros bloques de construcción hacen que sea fácil llevar sus ideas a la vida.
+
+Así está definido en su página web.
+
+Podemos encontrar sus templates en el siguiente enlace:
+
+[Templates](http://foundation.zurb.com/templates.html)
+
+##Licencia MIT
 
 Por la presente se autoriza, de forma gratuita, a cualquier persona que haya obtenido una copia de este software y archivos de documentación asociados (el "Software"), a utilizar el Software sin restricción, incluyendo sin limitación los derechos de usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar, y/o vender copias de este Software, y permitir lo mismo a las personas a las que se les proporcione el Software, de acuerdo con las siguientes condiciones:
 
